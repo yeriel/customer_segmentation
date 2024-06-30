@@ -1,0 +1,8 @@
+pandas
+jupyterlab
+numpy
+matplotlib
+scikit-learn
+category_encoders
+yellowbrick
+seaborn
