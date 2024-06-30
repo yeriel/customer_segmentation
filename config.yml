@@ -1,3 +1,3 @@
 dataset:
   raw: 'data/data_customers.csv'
-  pre_ps: 'data/data_customers_pre.csv'
+  data: 'data/data_customers_pre.csv'
